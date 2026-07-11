@@ -376,11 +376,8 @@ section{padding:120px 0;}
 .steps{
   display:grid;
   grid-template-columns:repeat(3,1fr);
-  gap:1px;
-  background:var(--line);
 }
 .step{
-  background:var(--black);
   padding:0 36px 0 0;
 }
 .step-num{
